@@ -28,8 +28,8 @@ A sophisticated Python-based gesture control system that allows you to control y
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Shauryan28/gesture-control.git
-cd gesture-control
+git clone https://github.com/Shauryan28/Gesture-Control-Cursor.git
+cd Gesture-Control-Cursor
 ```
 
 2. Install required packages:
@@ -67,6 +67,36 @@ The program includes visual feedback to help with gesture recognition:
 - Red circles: Folded fingers
 - Blue circles: Thumb position when near middle/ring fingers
 - Purple line: Appears when "Yo" sign is detected
+
+## Citation and Credits
+
+If you use this project in your work, please provide appropriate credit by:
+
+1. Adding a citation in your README:
+```markdown
+This project uses [Gesture Control System](https://github.com/Shauryan28/Gesture-Control-Cursor) by [Shaurya Nandecha](https://github.com/Shauryan28).
+```
+
+2. Adding a star ⭐ to the [original repository](https://github.com/Shauryan28/Gesture-Control-Cursor)
+
+3. If you create a derivative work, please maintain the original credit in your code and documentation:
+```python
+"""
+Based on Gesture Control System
+Original work by Shaurya Nandecha (https://github.com/Shauryan28)
+"""
+```
+
+For academic use, please cite as:
+```bibtex
+@software{nandecha2024gesture,
+    author = {Shaurya Nandecha},
+    title = {Gesture Control System},
+    year = {2024},
+    publisher = {GitHub},
+    url = {https://github.com/Shauryan28/Gesture-Control-Cursor}
+}
+```
 
 ## Author
 
